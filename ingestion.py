@@ -10,10 +10,17 @@ from typing import List, Dict, Any, Optional
 
 # --- NVIDIA CUDA & MULTI-CORE CPU OPTIMIZATIONS ---
 os.environ["TORCH_DEVICE"] = "cuda"
+
+os.environ["TORCH_DTYPE"] = "fp16"
+
+os.environ["SURYA_DET_BATCH_SIZE"] = "2"
+os.environ["SURYA_REC_BATCH_SIZE"] = "2"
+os.environ["TEXIFY_BATCH_SIZE"] = "2"
+
+
 # Docling and Marker will leverage these for underlying linear algebra libraries on your 20-core CPU
 os.environ["OMP_NUM_THREADS"] = "12"
-os.environ["MKL_NUM_THREADS"] = "12"
-os.environ["OPENBLAS_NUM_THREADS"] = "12"
+os.environ["MKL_NUM_THREADS"] = "12" 
 
 # LangChain Imports
 from langchain_core.documents import Document
