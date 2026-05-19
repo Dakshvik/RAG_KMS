@@ -1,14 +1,14 @@
 import json
 from pathlib import Path
 from collections import defaultdict
-from typing import List, Dict, Any
+from typing import Dict, Any
 
 # ─── CONFIGURATION ──────────────────────────────────────────
-INPUT_DIR  = "extracted_chunks_1"      # Where child chunk JSONs land
-OUTPUT_DIR = "parent_pages"            # Parent store
+INPUT_DIR  = "extracted_chunks_1"      # Your child chunk JSONs
+OUTPUT_DIR = "parent_pages"            # Where parent files are stored
 STATE_FILE = "parent_state.json"       # Tracks processed doc_ids
-MERGE_ADJACENT_PAGES = True
-PAGES_PER_GROUP = 2
+MERGE_ADJACENT_PAGES = False           # Keep as False for correct retriever mapping
+PAGES_PER_GROUP = 2                    # Ignored when MERGE_ADJACENT_PAGES is False
 
 # ─── STATE MANAGEMENT ───────────────────────────────────────
 def load_state() -> set:
@@ -43,7 +43,7 @@ def group_chunks(docs: list) -> Dict[tuple, list]:
         groups[key].append(doc)
     return groups
 
-# ─── BUILD PARENT DOCUMENTS ─────────────────────────────────
+# ─── BUILD PARENT DOCUMENTS (one per page) ─────────────────
 def build_page_parents(groups: Dict[tuple, list]) -> list:
     parents = []
     for (doc_id, page), chunks in groups.items():
@@ -61,6 +61,7 @@ def build_page_parents(groups: Dict[tuple, list]) -> list:
     return parents
 
 # ─── (OPTIONAL) MERGE CONSECUTIVE PAGES ─────────────────────
+# Not used when MERGE_ADJACENT_PAGES is False
 def merge_consecutive_pages(parents: list, pages_per_group: int = 2) -> list:
     parents.sort(key=lambda p: (p["metadata"]["doc_id"], p["metadata"]["page"]))
     merged = []
@@ -123,10 +124,8 @@ if __name__ == "__main__":
     groups = group_chunks(new_chunks)
     page_parents = build_page_parents(groups)
 
-    if MERGE_ADJACENT_PAGES:
-        final_parents = merge_consecutive_pages(page_parents, PAGES_PER_GROUP)
-    else:
-        final_parents = page_parents
+    # MERGE_ADJACENT_PAGES is False, so we skip merging
+    final_parents = page_parents   # directly use single‑page parents
 
     append_parents(final_parents, OUTPUT_DIR)
 

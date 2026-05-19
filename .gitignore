@@ -5,3 +5,4 @@ RAG
 test
 pipeline
 extracted_chunks_BNSS
+lang_detect_model
