@@ -19,7 +19,7 @@ from fastembed import SparseTextEmbedding
 # ---------- CONFIGURATION ----------
 CHUNKS_DIR = "extracted_chunks_1"
 QDRANT_URL = "http://localhost:6333"
-COLLECTION_NAME = "bilingual_hybrid"
+COLLECTION_NAME = "bilingual_hybrid_final"
 EMBED_MODEL = "bge-m3"
 SPARSE_MODEL = "Qdrant/bm25"
 VECTOR_SIZE = 1024

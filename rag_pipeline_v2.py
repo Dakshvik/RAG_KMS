@@ -19,7 +19,7 @@ from fastembed import SparseTextEmbedding
 
 # ---------- CONFIGURATION ----------
 QDRANT_URL = "http://localhost:6333"
-COLLECTION_NAME = "bilingual_hybrid"          # your hybrid collection
+COLLECTION_NAME = "bilingual_hybrid_final"          # your hybrid collection
 PARENTS_FILE = "parent_pages/all_parents.json"
 EMBED_MODEL = "bge-m3"                       # dense embeddings (Ollama)
 FASTTEXT_MODEL_PATH = "lang_detect_model/lid.176.bin"
@@ -27,7 +27,7 @@ SPARSE_MODEL = "Qdrant/bm25"                 # same as in embed_index.py
 
 # LLM models (Ollama tags) – quantized for 8 GB VRAM
 LLM_FAST = "qwen3:1.7b"       # for rewriting, compression
-LLM_HEAVY = "qwen3:4b"         # main generation
+LLM_HEAVY = "qwen3:8b"         # main generation
 
 # Reranker (runs on CPU / GPU automatically)
 RERANKER_MODEL = "BAAI/bge-reranker-base"

@@ -12,7 +12,7 @@ from langchain_core.documents import Document
 # ---------- CONFIGURATION ----------
 PARENTS_FILE = "parent_pages/all_parents.json"
 QDRANT_URL = "http://localhost:6333"
-COLLECTION_NAME = "bilingual_vectors"          # adjust if needed
+COLLECTION_NAME = "bilingual_hybrid_final"          # adjust if needed
 EMBED_MODEL = "bge-m3"
 FASTTEXT_MODEL_PATH = "lang_detect_model\lid.176.bin"
 
@@ -143,7 +143,7 @@ if __name__ == "__main__":
     retrieve = build_retriever()
 
     print("=== English ===")
-    for doc in retrieve("What is criminology?", k=2):
+    for doc in retrieve("What is BNSS?", k=2):
         print(f"[{doc.metadata['chunk_type']}] {doc.page_content[:200]}...\n")
 
     print("=== Telugu (script) ===")

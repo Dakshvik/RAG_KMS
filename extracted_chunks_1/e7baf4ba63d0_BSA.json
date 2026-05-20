@@ -6,7 +6,7 @@
       "chunk_id": "e7baf4ba63d0-0000",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 1
@@ -21,7 +21,7 @@
       "chunk_id": "e7baf4ba63d0-0001",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 3
@@ -36,7 +36,7 @@
       "chunk_id": "e7baf4ba63d0-0002",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 3
@@ -51,7 +51,7 @@
       "chunk_id": "e7baf4ba63d0-0003",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 3
@@ -66,7 +66,7 @@
       "chunk_id": "e7baf4ba63d0-0004",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 5
@@ -81,7 +81,7 @@
       "chunk_id": "e7baf4ba63d0-0005",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 5
@@ -96,7 +96,7 @@
       "chunk_id": "e7baf4ba63d0-0006",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 5
@@ -111,7 +111,7 @@
       "chunk_id": "e7baf4ba63d0-0007",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 7
@@ -126,7 +126,7 @@
       "chunk_id": "e7baf4ba63d0-0008",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 8
@@ -141,7 +141,7 @@
       "chunk_id": "e7baf4ba63d0-0009",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 8
@@ -156,7 +156,7 @@
       "chunk_id": "e7baf4ba63d0-0010",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 9
@@ -171,7 +171,7 @@
       "chunk_id": "e7baf4ba63d0-0011",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 11
@@ -186,7 +186,7 @@
       "chunk_id": "e7baf4ba63d0-0012",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 11
@@ -201,7 +201,7 @@
       "chunk_id": "e7baf4ba63d0-0013",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 12
@@ -216,7 +216,7 @@
       "chunk_id": "e7baf4ba63d0-0014",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 12
@@ -231,7 +231,7 @@
       "chunk_id": "e7baf4ba63d0-0015",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 12
@@ -246,7 +246,7 @@
       "chunk_id": "e7baf4ba63d0-0016",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 13
@@ -261,7 +261,7 @@
       "chunk_id": "e7baf4ba63d0-0017",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 13
@@ -276,7 +276,7 @@
       "chunk_id": "e7baf4ba63d0-0018",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 13
@@ -291,7 +291,7 @@
       "chunk_id": "e7baf4ba63d0-0019",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 13
@@ -306,7 +306,7 @@
       "chunk_id": "e7baf4ba63d0-0020",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 14
@@ -321,7 +321,7 @@
       "chunk_id": "e7baf4ba63d0-0021",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 14
@@ -336,7 +336,7 @@
       "chunk_id": "e7baf4ba63d0-0022",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 14
@@ -351,7 +351,7 @@
       "chunk_id": "e7baf4ba63d0-0023",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 15
@@ -366,7 +366,7 @@
       "chunk_id": "e7baf4ba63d0-0024",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 16
@@ -381,7 +381,7 @@
       "chunk_id": "e7baf4ba63d0-0025",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 16
@@ -396,7 +396,7 @@
       "chunk_id": "e7baf4ba63d0-0026",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 16
@@ -411,7 +411,7 @@
       "chunk_id": "e7baf4ba63d0-0027",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 17
@@ -426,7 +426,7 @@
       "chunk_id": "e7baf4ba63d0-0028",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 17
@@ -441,7 +441,7 @@
       "chunk_id": "e7baf4ba63d0-0029",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 17
@@ -456,7 +456,7 @@
       "chunk_id": "e7baf4ba63d0-0030",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 17
@@ -471,7 +471,7 @@
       "chunk_id": "e7baf4ba63d0-0031",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 18
@@ -486,7 +486,7 @@
       "chunk_id": "e7baf4ba63d0-0032",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 18
@@ -501,7 +501,7 @@
       "chunk_id": "e7baf4ba63d0-0033",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 18
@@ -516,7 +516,7 @@
       "chunk_id": "e7baf4ba63d0-0034",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 19
@@ -531,7 +531,7 @@
       "chunk_id": "e7baf4ba63d0-0035",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 19
@@ -546,7 +546,7 @@
       "chunk_id": "e7baf4ba63d0-0036",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 19
@@ -561,7 +561,7 @@
       "chunk_id": "e7baf4ba63d0-0037",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 20
@@ -576,7 +576,7 @@
       "chunk_id": "e7baf4ba63d0-0038",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 20
@@ -591,7 +591,7 @@
       "chunk_id": "e7baf4ba63d0-0039",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 20
@@ -606,7 +606,7 @@
       "chunk_id": "e7baf4ba63d0-0040",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 21
@@ -621,7 +621,7 @@
       "chunk_id": "e7baf4ba63d0-0041",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 21
@@ -636,7 +636,7 @@
       "chunk_id": "e7baf4ba63d0-0042",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 21
@@ -651,7 +651,7 @@
       "chunk_id": "e7baf4ba63d0-0043",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 22
@@ -666,7 +666,7 @@
       "chunk_id": "e7baf4ba63d0-0044",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 22
@@ -681,7 +681,7 @@
       "chunk_id": "e7baf4ba63d0-0045",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 22
@@ -696,7 +696,7 @@
       "chunk_id": "e7baf4ba63d0-0046",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 22
@@ -711,7 +711,7 @@
       "chunk_id": "e7baf4ba63d0-0047",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 22
@@ -726,7 +726,7 @@
       "chunk_id": "e7baf4ba63d0-0048",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 23
@@ -741,7 +741,7 @@
       "chunk_id": "e7baf4ba63d0-0049",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 23
@@ -756,7 +756,7 @@
       "chunk_id": "e7baf4ba63d0-0050",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 23
@@ -771,7 +771,7 @@
       "chunk_id": "e7baf4ba63d0-0051",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 24
@@ -786,7 +786,7 @@
       "chunk_id": "e7baf4ba63d0-0052",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 24
@@ -801,7 +801,7 @@
       "chunk_id": "e7baf4ba63d0-0053",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 24
@@ -816,7 +816,7 @@
       "chunk_id": "e7baf4ba63d0-0054",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 24
@@ -831,7 +831,7 @@
       "chunk_id": "e7baf4ba63d0-0055",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 25
@@ -846,7 +846,7 @@
       "chunk_id": "e7baf4ba63d0-0056",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 25
@@ -861,7 +861,7 @@
       "chunk_id": "e7baf4ba63d0-0057",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 25
@@ -876,7 +876,7 @@
       "chunk_id": "e7baf4ba63d0-0058",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 25
@@ -891,7 +891,7 @@
       "chunk_id": "e7baf4ba63d0-0059",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 26
@@ -906,7 +906,7 @@
       "chunk_id": "e7baf4ba63d0-0060",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 26
@@ -921,7 +921,7 @@
       "chunk_id": "e7baf4ba63d0-0061",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 26
@@ -936,7 +936,7 @@
       "chunk_id": "e7baf4ba63d0-0062",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 27
@@ -951,7 +951,7 @@
       "chunk_id": "e7baf4ba63d0-0063",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 27
@@ -966,7 +966,7 @@
       "chunk_id": "e7baf4ba63d0-0064",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 27
@@ -981,7 +981,7 @@
       "chunk_id": "e7baf4ba63d0-0065",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 27
@@ -996,7 +996,7 @@
       "chunk_id": "e7baf4ba63d0-0066",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 28
@@ -1011,7 +1011,7 @@
       "chunk_id": "e7baf4ba63d0-0067",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 28
@@ -1026,7 +1026,7 @@
       "chunk_id": "e7baf4ba63d0-0068",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 28
@@ -1041,7 +1041,7 @@
       "chunk_id": "e7baf4ba63d0-0069",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 29
@@ -1056,7 +1056,7 @@
       "chunk_id": "e7baf4ba63d0-0070",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 30
@@ -1071,7 +1071,7 @@
       "chunk_id": "e7baf4ba63d0-0071",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 30
@@ -1086,7 +1086,7 @@
       "chunk_id": "e7baf4ba63d0-0072",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 30
@@ -1101,7 +1101,7 @@
       "chunk_id": "e7baf4ba63d0-0073",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 31
@@ -1116,7 +1116,7 @@
       "chunk_id": "e7baf4ba63d0-0074",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 31
@@ -1131,7 +1131,7 @@
       "chunk_id": "e7baf4ba63d0-0075",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 31
@@ -1146,7 +1146,7 @@
       "chunk_id": "e7baf4ba63d0-0076",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 32
@@ -1161,7 +1161,7 @@
       "chunk_id": "e7baf4ba63d0-0077",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 32
@@ -1176,7 +1176,7 @@
       "chunk_id": "e7baf4ba63d0-0078",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 33
@@ -1191,7 +1191,7 @@
       "chunk_id": "e7baf4ba63d0-0079",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 33
@@ -1206,7 +1206,7 @@
       "chunk_id": "e7baf4ba63d0-0080",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 33
@@ -1221,7 +1221,7 @@
       "chunk_id": "e7baf4ba63d0-0081",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 34
@@ -1236,7 +1236,7 @@
       "chunk_id": "e7baf4ba63d0-0082",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 34
@@ -1251,7 +1251,7 @@
       "chunk_id": "e7baf4ba63d0-0083",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 34
@@ -1266,7 +1266,7 @@
       "chunk_id": "e7baf4ba63d0-0084",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 34
@@ -1281,7 +1281,7 @@
       "chunk_id": "e7baf4ba63d0-0085",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 35
@@ -1296,7 +1296,7 @@
       "chunk_id": "e7baf4ba63d0-0086",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 35
@@ -1311,7 +1311,7 @@
       "chunk_id": "e7baf4ba63d0-0087",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 35
@@ -1326,7 +1326,7 @@
       "chunk_id": "e7baf4ba63d0-0088",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 36
@@ -1341,7 +1341,7 @@
       "chunk_id": "e7baf4ba63d0-0089",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 37
@@ -1356,7 +1356,7 @@
       "chunk_id": "e7baf4ba63d0-0090",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 37
@@ -1371,7 +1371,7 @@
       "chunk_id": "e7baf4ba63d0-0091",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 37
@@ -1386,7 +1386,7 @@
       "chunk_id": "e7baf4ba63d0-0092",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 38
@@ -1401,7 +1401,7 @@
       "chunk_id": "e7baf4ba63d0-0093",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 38
@@ -1416,7 +1416,7 @@
       "chunk_id": "e7baf4ba63d0-0094",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 38
@@ -1431,7 +1431,7 @@
       "chunk_id": "e7baf4ba63d0-0095",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 38
@@ -1446,7 +1446,7 @@
       "chunk_id": "e7baf4ba63d0-0096",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 38
@@ -1461,7 +1461,7 @@
       "chunk_id": "e7baf4ba63d0-0097",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 38
@@ -1476,7 +1476,7 @@
       "chunk_id": "e7baf4ba63d0-0098",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 39
@@ -1491,7 +1491,7 @@
       "chunk_id": "e7baf4ba63d0-0099",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 39
@@ -1506,7 +1506,7 @@
       "chunk_id": "e7baf4ba63d0-0100",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 40
@@ -1521,7 +1521,7 @@
       "chunk_id": "e7baf4ba63d0-0101",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 40
@@ -1536,7 +1536,7 @@
       "chunk_id": "e7baf4ba63d0-0102",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 41
@@ -1551,7 +1551,7 @@
       "chunk_id": "e7baf4ba63d0-0103",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 42
@@ -1566,7 +1566,7 @@
       "chunk_id": "e7baf4ba63d0-0104",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 42
@@ -1581,7 +1581,7 @@
       "chunk_id": "e7baf4ba63d0-0105",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 42
@@ -1596,7 +1596,7 @@
       "chunk_id": "e7baf4ba63d0-0106",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 43
@@ -1611,7 +1611,7 @@
       "chunk_id": "e7baf4ba63d0-0107",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 43
@@ -1626,7 +1626,7 @@
       "chunk_id": "e7baf4ba63d0-0108",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 43
@@ -1641,7 +1641,7 @@
       "chunk_id": "e7baf4ba63d0-0109",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 43
@@ -1656,7 +1656,7 @@
       "chunk_id": "e7baf4ba63d0-0110",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 44
@@ -1671,7 +1671,7 @@
       "chunk_id": "e7baf4ba63d0-0111",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 44
@@ -1686,7 +1686,7 @@
       "chunk_id": "e7baf4ba63d0-0112",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 45
@@ -1701,7 +1701,7 @@
       "chunk_id": "e7baf4ba63d0-0113",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 45
@@ -1716,7 +1716,7 @@
       "chunk_id": "e7baf4ba63d0-0114",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 45
@@ -1731,7 +1731,7 @@
       "chunk_id": "e7baf4ba63d0-0115",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 45
@@ -1746,7 +1746,7 @@
       "chunk_id": "e7baf4ba63d0-0116",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 46
@@ -1761,7 +1761,7 @@
       "chunk_id": "e7baf4ba63d0-0117",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 47
@@ -1776,7 +1776,7 @@
       "chunk_id": "e7baf4ba63d0-0118",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 47
@@ -1791,7 +1791,7 @@
       "chunk_id": "e7baf4ba63d0-0119",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 47
@@ -1806,7 +1806,7 @@
       "chunk_id": "e7baf4ba63d0-0120",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 47
@@ -1821,7 +1821,7 @@
       "chunk_id": "e7baf4ba63d0-0121",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 48
@@ -1836,7 +1836,7 @@
       "chunk_id": "e7baf4ba63d0-0122",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 48
@@ -1851,7 +1851,7 @@
       "chunk_id": "e7baf4ba63d0-0123",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 49
@@ -1866,7 +1866,7 @@
       "chunk_id": "e7baf4ba63d0-0124",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 49
@@ -1881,7 +1881,7 @@
       "chunk_id": "e7baf4ba63d0-0125",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 49
@@ -1896,7 +1896,7 @@
       "chunk_id": "e7baf4ba63d0-0126",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 49
@@ -1911,7 +1911,7 @@
       "chunk_id": "e7baf4ba63d0-0127",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 50
@@ -1926,7 +1926,7 @@
       "chunk_id": "e7baf4ba63d0-0128",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 50
@@ -1941,7 +1941,7 @@
       "chunk_id": "e7baf4ba63d0-0129",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 50
@@ -1956,7 +1956,7 @@
       "chunk_id": "e7baf4ba63d0-0130",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 50
@@ -1971,7 +1971,7 @@
       "chunk_id": "e7baf4ba63d0-0131",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 51
@@ -1986,7 +1986,7 @@
       "chunk_id": "e7baf4ba63d0-0132",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 51
@@ -2001,7 +2001,7 @@
       "chunk_id": "e7baf4ba63d0-0133",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 51
@@ -2016,7 +2016,7 @@
       "chunk_id": "e7baf4ba63d0-0134",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 51
@@ -2031,7 +2031,7 @@
       "chunk_id": "e7baf4ba63d0-0135",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 52
@@ -2046,7 +2046,7 @@
       "chunk_id": "e7baf4ba63d0-0136",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 52
@@ -2061,7 +2061,7 @@
       "chunk_id": "e7baf4ba63d0-0137",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 52
@@ -2076,7 +2076,7 @@
       "chunk_id": "e7baf4ba63d0-0138",
       "source": "data\\telugu\\BSA.pdf",
       "filename": "BSA.pdf",
-      "subject": "telugu",
+      "subject": "core_laws",
       "language": "telugu",
       "extraction_method": "ocr_standard",
       "page": 52

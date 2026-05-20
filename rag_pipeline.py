@@ -13,7 +13,7 @@ from sentence_transformers import CrossEncoder
 
 # ---------- CONFIGURATION ----------
 QDRANT_URL = "http://localhost:6333"
-COLLECTION_NAME = "bilingual_vectors"                # your Qdrant collection
+COLLECTION_NAME = "bilingualbilingual_hybrid_final_vectors"                # your Qdrant collection
 PARENTS_FILE = "parent_pages/all_parents.json"
 EMBED_MODEL = "bge-m3"                              # dense embeddings (Ollama)
 FASTTEXT_MODEL_PATH = "lang_detect_model/lid.176.bin"
