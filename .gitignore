@@ -5,3 +5,5 @@ RAG
 pipeline
 extracted_chunks_BNSS
 lang_detect_model
+versions
+api_server.log

@@ -1,0 +1,13 @@
+import sys
+print("START", flush=True)
+print("1. torch", flush=True)
+import torch; print("torch OK", flush=True)
+print("2. transformers", flush=True)
+import transformers; print("transformers OK", flush=True)
+print("3. sentence_transformers", flush=True)
+from sentence_transformers import CrossEncoder; print("CrossEncoder OK", flush=True)
+print("4. fastembed", flush=True)
+from fastembed import SparseTextEmbedding; print("fastembed OK", flush=True)
+print("5. fasttext", flush=True)
+import fasttext; print("fasttext OK", flush=True)
+print("ALL IMPORTS PASSED", flush=True)

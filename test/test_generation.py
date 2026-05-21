@@ -1,32 +1,34 @@
-# import time
-# import ollama
+import time
+import ollama
 
-# # ---------- CONFIG ----------
-# MODEL_NAME = "qwen3:4b"   # a tiny model that runs on anything; change to "llama3.2:3b" or "qwen2:0.5b" as you prefer
-# # ----------------------------
+# ---------- CONFIG ----------
+MODEL_NAME = "qwen3:4b"   # a tiny model that runs on anything; change to "llama3.2:3b" or "qwen2:0.5b" as you prefer
+# ----------------------------
 
-# def test_llm():
-#     query = "నేర శాస్త్రం అంటే ఏమిటి?"
-#     print(f"🔄 Sending test query to '{MODEL_NAME}' ...")
-#     start = time.perf_counter()
+def test_llm():
+    query = "capital of india"
+    print(f"🔄 Sending test query to '{MODEL_NAME}' ...")
+    start = time.perf_counter()
 
-#     try:
-#         response = ollama.chat(
-#             model=MODEL_NAME,
-#             messages=[
-#                 {"role": "user", "content": query},
-#             ],
-#             options={"temperature": 0.1}
-#         )
-#         answer = response["message"]["content"]
-#         elapsed = time.perf_counter() - start
-#         print(f"✅ Response received in {elapsed:.2f}s:\n{answer}")
-#     except Exception as e:
-#         print(f"❌ Ollama call failed: {e}")
+    try:
+        response = ollama.chat(
+            model=MODEL_NAME,
+            messages=[
+                {"role": "user", "content": query},
+            ],
+            options={"temperature": 0.1}
+        )
+        answer = response["message"]["content"]
+        elapsed = time.perf_counter() - start
+        print(f"✅ Response received in {elapsed:.2f}s:\n{answer}")
+    except Exception as e:
+        print(f"❌ Ollama call failed: {e}")
 
-# if __name__ == "__main__":
-#     print("Ollama Local LLM Quick Test")
-#     test_llm()
+if __name__ == "__main__":
+    print("Ollama Local LLM Quick Test")
+    test_llm()
+
+    
 # import ollama
 # prompt = "How many years of imprisonment and how much fine should we pay if we take dowry?"
 # resp = ollama.chat(
@@ -74,13 +76,13 @@
 
 
 
-from qdrant_client import QdrantClient
-client = QdrantClient(url="http://localhost:6333")
-hits = client.query_points(
-    collection_name="bilingual_hybrid_final",
-    query="demanding dowry fine ten thousand rupees",
-    limit=5,
-    with_payload=True,
-)
-for p in hits.points:
-    print(p.payload["filename"], p.payload["page"], p.payload["text"][:200])
+# from qdrant_client import QdrantClient
+# client = QdrantClient(url="http://localhost:6333")
+# hits = client.query_points(
+#     collection_name="bilingual_hybrid_final",
+#     query="demanding dowry fine ten thousand rupees",
+#     limit=5,
+#     with_payload=True,
+# )
+# for p in hits.points:
+#     print(p.payload["filename"], p.payload["page"], p.payload["text"][:200])
